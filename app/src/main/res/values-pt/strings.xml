@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notif_channel">Aviso de barraca lotada</string>
+    <string name="notif_title">Sua barraca lotou</string>
+    <string name="notif_text">Seus ajudantes venderam tudo o que podiam. Entre para coletar.</string>
+    <string name="webview_error">Não foi possível abrir o jogo. Atualize o Android System WebView na Google Play e tente de novo.</string>
+    <string name="retry">Tentar de novo</string>
+</resources>

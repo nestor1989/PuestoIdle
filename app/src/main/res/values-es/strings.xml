@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notif_channel">Aviso de puesto lleno</string>
+    <string name="notif_title">Tu puesto está lleno</string>
+    <string name="notif_text">Tus ayudantes vendieron todo lo que podían. Entra a cobrar.</string>
+    <string name="webview_error">No se pudo abrir el juego. Actualiza Android System WebView desde Google Play y vuelve a intentarlo.</string>
+    <string name="retry">Reintentar</string>
+</resources>

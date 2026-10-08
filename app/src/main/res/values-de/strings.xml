@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notif_channel">Hinweis bei vollem Stand</string>
+    <string name="notif_title">Dein Stand ist voll</string>
+    <string name="notif_text">Deine Helfer haben alles verkauft, was ging. Komm kassieren.</string>
+    <string name="webview_error">Das Spiel konnte nicht starten. Aktualisiere Android System WebView über Google Play und versuche es erneut.</string>
+    <string name="retry">Erneut versuchen</string>
+</resources>

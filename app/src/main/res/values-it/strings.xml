@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notif_channel">Avviso chiosco pieno</string>
+    <string name="notif_title">Il tuo chiosco è pieno</string>
+    <string name="notif_text">I tuoi aiutanti hanno venduto tutto il possibile. Entra a incassare.</string>
+    <string name="webview_error">Impossibile avviare il gioco. Aggiorna Android System WebView da Google Play e riprova.</string>
+    <string name="retry">Riprova</string>
+</resources>

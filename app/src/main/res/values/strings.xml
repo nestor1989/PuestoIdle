@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Puesto Idle</string>
+    <string name="notif_channel">Full stand alerts</string>
+    <string name="notif_title">Your stand is full</string>
+    <string name="notif_text">Your helpers sold everything they could. Come collect your earnings.</string>
+    <string name="webview_error">The game could not start. Update Android System WebView from Google Play and try again.</string>
+    <string name="retry">Try again</string>
+</resources>

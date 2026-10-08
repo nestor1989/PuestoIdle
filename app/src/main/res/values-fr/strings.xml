@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notif_channel">Alerte stand plein</string>
+    <string name="notif_title">Ton stand est plein</string>
+    <string name="notif_text">Tes aides ont vendu tout ce qu\'ils pouvaient. Viens récupérer tes gains.</string>
+    <string name="webview_error">Impossible de lancer le jeu. Mets à jour Android System WebView depuis Google Play, puis réessaie.</string>
+    <string name="retry">Réessayer</string>
+</resources>

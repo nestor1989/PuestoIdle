@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Tema de plataforma: sin AppCompat ni Material Components, el juego dibuja toda su UI. -->
+    <style name="Theme.Puesto" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/ink</item>
+        <item name="android:colorAccent">@color/marigold</item>
+    </style>
+</resources>
